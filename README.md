@@ -11,7 +11,7 @@ Built for **Catalyst Hackathon** · Submission deadline: April 27, 2026
 | | |
 |---|---|
 | **Live Demo** | [catalyst-skill-assessment.vercel.app](https://catalyst-skill-assessment.vercel.app) |
-| **Demo Video** | [Watch on YouTube](#) *(replace after recording)* |
+| **Demo Video** | (https://www.loom.com/share/cf9ddccc10e44701b9c32541cb19fec3) |
 | **GitHub** | [github.com/YOUR_USERNAME/catalyst-skill-assessment](#) |
 
 ---
